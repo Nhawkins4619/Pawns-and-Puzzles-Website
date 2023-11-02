@@ -1,0 +1,12 @@
+.logo{
+    width: 150px;
+    height: 150px;
+}
+.products{
+    height: 200px;
+    margin-top: 1em;
+}
+.MuiFormHelperText-root {
+    color: black !important;
+    font-size: 1em !important;
+}

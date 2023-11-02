@@ -1,0 +1,50 @@
+@media screen and (min-width: 1920px) {
+    .chessPieces {
+        background-image: url('../../Assets/Paralax/ChessPeices2.png');
+    }
+}
+
+@media screen and (min-width: 2560px) {
+    .chessPieces{
+        background-image: url('../../Assets/Paralax/ChessPeices2_2560x1440.png');
+    }
+}
+
+@media screen and (min-width: 3840px) {
+    .chessPieces {
+        background-image: url('../../Assets/Paralax/ChessPeices2_3840x2160.png');
+    }
+}
+
+.chessPieces{
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 110vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.theGig{
+    width: 35em;
+    height: auto;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    
+}
+.Vinyl{
+    width: 400px;
+    height: 400px;
+}
+.rightGirl{
+    width: 279px;
+    height: 500px
+}
+.leftGirl{
+    width: 297px;
+    height: 500px
+}
